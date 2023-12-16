@@ -1,0 +1,52 @@
+.body {background-image :url(3b0f77a0-0c10-48dd-b5d2-f892fa8470aa.jpg);
+/* En utilisant un nom de couleur */
+margin: 0%;
+padding: 0%;
+}
+
+       
+
+        
+        body {
+            border: 2px solid #010007; /* 2px est la largeur de la bordure, #000 est la couleur (noir) */
+            margin: 0; /* Supprime la marge par défaut du corps de la page */
+            padding: 0; /* Supprime le remplissage par défaut du corps de la page */
+          }
+.table {
+    border: #010007;
+    margin: 20%;
+justify-content: center;
+}
+
+.h1 {
+    text-align: center;
+    padding: 30%;
+    margin: 30%;
+}
+
+.h2{ 
+    text-align: center;
+    margin: 0%;
+}
+.h3{
+    text-align: center;
+    margin: 0%;
+}
+.h4{
+    text-align: center;
+    margin: 0%;
+}
+
+.P{
+    text-align: center;
+    margin: 0%;
+}
+
+.footer{
+    justify-content: center;
+    margin: 0%;
+}
+.button {
+    border: #010007;
+
+}
