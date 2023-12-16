@@ -45,18 +45,19 @@ justify-content: center;
     margin: 4%;
 }
 
-.com{
-    margin: 4%;
-    background-color: yellow ;
-}
-
-
 
 .footer{
     justify-content: center;
     margin: 0%;
 }
-.button {
+.bout {
     border: #010007;
-    margin-left: 45%;
+    margin-left: 80%;
+}
+.pr2{
+    margin-left: 4%;
+}
+
+.do{
+        margin-left: 35%;
 }
